@@ -1,0 +1,14 @@
+my-env/
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+*.log
+*.sqlite3
+*.env
+
+Thumbs.db
+Desktop.ini
+
+.vscode/
